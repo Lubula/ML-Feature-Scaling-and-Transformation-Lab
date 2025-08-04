@@ -17,11 +17,12 @@ Machine learning algorithms often assume that all features operate on a comparab
 We try to bring all the variables or features to a similar scale. standarisation means centering the variable at zero. z=(x-x_mean)/std
 
   ## 🎯 Types Of Transformation
-1. Normalization And Standardization | Scaling to Minimum And Maximum values | Scaling To Median And Quantiles
-2. Guassian Transformation
-3. Logarithmic Transformation
-4. Reciprocal Trnasformation
-5. Square Root Transformation
-6. Exponential Trnasformation
-7. Box Cox Transformation
+1. Normalization And Standardization
+2. Scaling to Minimum And Maximum values | Scaling To Median And Quantiles
+3. Guassian Transformation
+4. Logarithmic Transformation
+5. Reciprocal Trnasformation
+6. Square Root Transformation
+7. Exponential Trnasformation
+8. Box Cox Transformation
 
