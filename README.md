@@ -14,15 +14,14 @@ Machine learning algorithms often assume that all features operate on a comparab
   Activation gradients explode or vanish when inputs have wildly different ranges. Standardization helps gradients flow smoothly.
 
 
-We try to bring all the variables or features to a similar scale. standarisation means centering the variable at zero. z=(x-x_mean)/std
+I try to bring all the variables or features to a similar scale. standarisation means centering the variable at zero. z=(x-x_mean)/std
 
   ## 🎯 Types Of Transformation
-1. Normalization And Standardization
-2. Scaling to Minimum And Maximum values | Scaling To Median And Quantiles
-3. Guassian Transformation
-4. Logarithmic Transformation
-5. Reciprocal Trnasformation
-6. Square Root Transformation
-7. Exponential Trnasformation
-8. Box Cox Transformation
-
+### 1. Normalization And Standardization
+### 2. Scaling to Minimum And Maximum values | Scaling To Median And Quantiles
+### 3. Guassian Transformations:
+- Logarithmic Transformation
+- Reciprocal Transformation
+- Square Root Transformation
+- Exponential Transformation
+- BoxCOx Transformation (will explain in detail)
