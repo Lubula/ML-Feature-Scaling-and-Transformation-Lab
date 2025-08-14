@@ -12,7 +12,7 @@ Uneven feature scales distort Euclidean distance, affecting clustering and neigh
 Extreme feature values can cause vanishing or exploding gradients.
 Feature transformation ensures fair contribution of all variables by bringing them to a similar scale.
 
-##🎯 Types Of Transformation
+## 🎯 Types Of Transformation
 1. [Normalization And Standardization](https://github.com/Lubula/ML-Feature-Scaling-and-Transformation-Lab/blob/main/01-normalization-standardization.ipynb)
 2. [Scaling to Minimum And Maximum values | Scaling To Median And Quantiles](https://github.com/Lubula/ML-Feature-Scaling-and-Transformation-Lab/blob/main/02-scaling-min-max-median-quantiles.ipynb)
 3. [Guassian Transformations:](https://github.com/Lubula/ML-Feature-Scaling-and-Transformation-Lab/blob/main/03-gaussian-transformations.ipynb)
